@@ -5,7 +5,7 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #272829;
+  color: #272829; /* new font color is [#ffffff] */
 }
 
 a {
@@ -278,7 +278,7 @@ section {
 }
 
 .section-bg {
-  background: #f5f8fd;
+  background: #050d18; /* background for the project section */
 }
 
 .section-title {
@@ -291,7 +291,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #38176c; /* title */
+  color: #341469; /* title */
 }
 
 .section-title h2::after {
